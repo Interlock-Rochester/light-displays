@@ -2,7 +2,7 @@
 Various projects that emit photons in various pleasing patterns.
 
 
-This repository contains three main projects:
+This repository contains these projects:
 
 - [ARLENE](Arlene) - Arduino microcontroller connected to eight solid-state relays, ostensibly to electrical fairy lights of some kind.  One button controls pattern displayed and speed.
 
