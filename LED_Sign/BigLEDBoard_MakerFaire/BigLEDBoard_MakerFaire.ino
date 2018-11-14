@@ -1,8 +1,18 @@
 
 /* BigLEDBoard
+ *  
+ *  LED sign driver and slideshow for Interlock Rochester's BIG BOARD
  * 
+ *        2018-11-13 sdl
+ *        Updated for RochesterMakerFaire 2018
+ *        
  * v2.00  2017-11-13 sdl
  *        fonts, etc presentation for makerFaire
+ *        
+ *        
+ * Created by Scott Lawrence
+ *   http://umlautllama.com
+ *   bleullama on github
  */
 
 #include "config.h"
@@ -165,7 +175,7 @@ SSLIDE sl_facilities = {
   { "Lounge, Board Room, Offices",
     "Electronics Bench, Dev Kits ",
     "3D Printers, HAM Shack",
-    "Wood Shop, Laser Cutter",
+    "Wood Shop, Retro Computers",
     NULL }
 };
 
@@ -185,7 +195,7 @@ SSLIDE sl_meetups = {
   { "Every Tuesday Evening",
     "1st Tue - Monthly Meeting",
     "1st Fri - 2600",
-    "2nd Tue - How Do I?",
+    "3rd Tue - Retro-Computing",
     "3rd Sat - Linux",
     NULL }
 };
